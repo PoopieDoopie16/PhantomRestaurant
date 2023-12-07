@@ -1,8 +1,11 @@
 {
-  "Vip": {
+  "VipChat": {
     "623113495": true
   },
   "Segway": {
     "623113495": true
+  },
+  "RainbowName": {
+      "623113495": true
   }
 }
